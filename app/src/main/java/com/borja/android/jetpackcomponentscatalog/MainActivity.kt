@@ -167,7 +167,9 @@ class MainActivity : ComponentActivity() {
                         }
                     }*/
                     //ColorAnimationSimple()
-                    SizeAnimation()
+                    //SizeAnimation()
+                    //VisibilityAnimation()
+                    CrossfadeExampleAnimation()
                 }
             }
         }
